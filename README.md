@@ -7,3 +7,6 @@ TI.19.E1
 
 311910008
 
+#TeknikInformatikaUPB
+
+#UniversitasPelitaBangsa
